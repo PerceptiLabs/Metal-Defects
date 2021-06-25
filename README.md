@@ -26,23 +26,15 @@ The following table lists the 10 nominal defect classifications values and provi
 | Defect | Nominal Classification Value | Description |
 | :---------- | :------ | :------- |
 | Crease | 0 | Vertical or transverse folds across a metal strip caused during the uncoiling process. |
-| Crescent Gap | 1 | Defects caused by cutting, in the shape of a half circle.
- |
-| Inclusion | 2 | Surface defects in various shapes (e.g., fish scale shape) which may be loose and easy to fall off or pressed into the metal.
- |
-| Oil Spot | 3 | Contamination caused by mechanical lubricant that affects the product's appearance.
- |
+| Crescent Gap | 1 | Defects caused by cutting, in the shape of a half circle. |
+| Inclusion | 2 | Surface defects in various shapes (e.g., fish scale shape) which may be loose and easy to fall off or pressed into the metal. |
+| Oil Spot | 3 | Contamination caused by mechanical lubricant that affects the product's appearance. |
 | Punching | 4 | Steel strips with additional, unwanted punching holes caused by mechanical failure. |
-| Rolled Pit | 5 | Periodic bulges or pits on the metal's surface often caused by work or tension roll damage.
- |
-| Silk Spot | 6 | Wave-like plaque on the surface often caused by the uneven pressure or temperature of a roller.
- |
-| Waist Folding | 7 | A weld line that occurs when a steel strip is changed. 
- |
-| Water Spot | 8 | Spots which occur when drying the metal during production.
- |
-| Welding Line | 9 | Wrinkle-like folds caused by low-carbon.
- |
+| Rolled Pit | 5 | Periodic bulges or pits on the metal's surface often caused by work or tension roll damage. |
+| Silk Spot | 6 | Wave-like plaque on the surface often caused by the uneven pressure or temperature of a roller. |
+| Waist Folding | 7 | A weld line that occurs when a steel strip is changed. |
+| Water Spot | 8 | Spots which occur when drying the metal during production. |
+| Welding Line | 9 | Wrinkle-like folds caused by low-carbon. |
 
 <b>Note</b>: see [Kaggle](https://www.kaggle.com/zhangyunsheng/defects-class-and-location) for additional information about these defects.
 
